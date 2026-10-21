@@ -1,69 +1,92 @@
-# Java-learning
-A structured collection of my Java programming practice, covering core concepts, Object-Oriented Programming (OOP), recursion, and problem-solving. Documenting my learning journey through practical implementations and continuous improvement.
-# Java Learning
+# ☕ Java Learning
 
-**My journey of learning Java through practical coding and continuous improvement.**
+A collection of Java programs covering core concepts and practical examples to strengthen programming fundamentals.
 
-Welcome to my Java Learning repository. This repository contains my Java programs, concept implementations, and practice exercises as I build a strong foundation in Java programming.
+This repository contains programs written while practising Java, with topics organized to make learning, revision, and understanding easier for beginners.
 
-## About This Repository
+##  Topics Covered
 
-The goal of this repository is to understand Java concepts through hands-on practice, write clean and readable code, and improve logical thinking and problem-solving skills.
+### 1. Object-Oriented Programming (OOP)
 
-I organize my programs by topic and update this repository as I learn new concepts.
-
-## Topics Covered
-
-### 01. Object-Oriented Programming (OOP)
+Practical programs demonstrating the fundamental principles of object-oriented programming.
 
 - Classes and Objects
-- Encapsulation
+- Constructors (Default and Parameterized)
 - Inheritance
 - Polymorphism
+- Encapsulation
 - Abstraction
 - Interfaces
-- Constructors and Methods
+- `this` and `super` keywords
+- Method Overloading and Overriding
+- Access Modifiers
 
-*This section contains my OOP practice programs and implementations.*
+### 2. Multithreading
 
-## Repository Structure
+Practical examples exploring concurrent execution and thread management in Java.
 
-```text
-Java-Learning/
-├── README.md
-└── OOP-Concepts/
-    ├── ClassesAndObjects.java
-    ├── Encapsulation.java
-    ├── Inheritance.java
-    ├── Polymorphism.java
-    ├── Abstraction.java
-    └── Interfaces.java
+- Creating Threads using `Thread` and `Runnable`
+- Thread Life Cycle
+- Thread Priority
+- Thread Methods: `sleep()`, `join()`, `yield()`, `isAlive()`
+- Synchronization using the `synchronized` keyword
+- Thread Communication using `wait()`, `notify()`, and `notifyAll()`
+
+## Repository Objectives
+
+- Practise Java concepts through hands-on programming.
+- Develop logical thinking and problem-solving skills.
+- Understand theoretical concepts through code examples.
+- Maintain organized programs for revision and reference.
+- Provide useful learning resources for Java beginners.
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Java
+- **Development Tools:** JDK and VS Code
+- **Version Control:** Git and GitHub
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Java Development Kit (JDK) installed on your system.
+- A code editor or terminal to compile and execute Java programs.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/kiran1177/Java-learning.git
+cd Java-learning
 ```
 
-*The structure above is an example. Keep only the files that you actually upload.*
+### Compile and Run a Program
 
-## Technologies & Tools
+Navigate to the folder containing the Java program and execute:
 
-- **Language:** Java
-- **IDE:** Visual Studio Code
-- **Version Control:** Git
-- **Platform:** GitHub
+```bash
+javac FileName.java
+java ClassName
+```
 
-## Learning Goals
+Replace `FileName.java` with the source filename and `ClassName` with the class containing the `main()` method.
 
-- Strengthen my understanding of Core Java.
-- Practice concepts through real code examples.
-- Improve problem-solving and logical thinking.
-- Maintain consistent coding practice.
-- Gradually progress toward building real-world applications.
+##  Repository Structure
 
-## Progress
+```text
+Java-learning/
+├── oop-concepts/
+├── thread/
+└── README.md
+```
 
-I update this repository as I complete new Java topics and practice programs. Each update represents another step in my learning journey.
+*Note: The folder names above are examples. Keep them consistent with the actual names in your repository.*
 
-I also share my weekly learning progress on LinkedIn.
+## Contributions
+
+Suggestions and feedback that help improve the examples and make Java concepts easier to understand are welcome.
 
 ---
+Mylinkedln account:www.linkedin.com/in/kiran-k-rathod-890926377
 
-**Learning by doing. Practicing consistently. Growing one concept at a time.**
-my linkeln account:www.linkedin.com/in/kiran-k-rathod-890926377
+**Thank you for visiting this repository!** ⭐
