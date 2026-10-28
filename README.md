@@ -1,10 +1,10 @@
-# ☕ Java Learning
+# Java Learning
 
 A collection of Java programs covering core concepts and practical examples to strengthen programming fundamentals.
 
 This repository contains programs written while practising Java, with topics organized to make learning, revision, and understanding easier for beginners.
 
-##  Topics Covered
+## Topics Covered
 
 ### 1. Object-Oriented Programming (OOP)
 
@@ -30,7 +30,20 @@ Practical examples exploring concurrent execution and thread management in Java.
 - Thread Priority
 - Thread Methods: `sleep()`, `join()`, `yield()`, `isAlive()`
 - Synchronization using the `synchronized` keyword
-- Thread Communication using `wait()`, `notify()`, and `notifyAll()`
+- Thread Communication using `wait()`, `notify()`
+
+### 3. Recursion
+
+Practical programs demonstrating recursive function calls and problem-solving techniques using recursion.
+
+- Basic Recursion
+- Recursion with Base Conditions
+- Understanding `StackOverflowError`
+- Printing Numbers Using Recursion
+- Reversing an Array Using Recursion
+- Fibonacci Series Using Recursion
+- Understanding the Order of Recursive Calls
+- Generating Subsequences Using Recursion and Backtracking
 
 ## Repository Objectives
 
@@ -40,13 +53,13 @@ Practical examples exploring concurrent execution and thread management in Java.
 - Maintain organized programs for revision and reference.
 - Provide useful learning resources for Java beginners.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Programming Language:** Java
 - **Development Tools:** JDK and VS Code
 - **Version Control:** Git and GitHub
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -71,22 +84,24 @@ java ClassName
 
 Replace `FileName.java` with the source filename and `ClassName` with the class containing the `main()` method.
 
-##  Repository Structure
+## Repository Structure
 
 ```text
 Java-learning/
 ├── oop-concepts/
 ├── thread/
+├── recursion/
 └── README.md
 ```
 
-*Note: The folder names above are examples. Keep them consistent with the actual names in your repository.*
+*Note: Ensure that the folder names above match the actual folder names in your repository.*
 
 ## Contributions
 
 Suggestions and feedback that help improve the examples and make Java concepts easier to understand are welcome.
 
 ---
-Mylinkedln account:www.linkedin.com/in/kiran-k-rathod-890926377
+
+**LinkedIn:** [Kiran K. Rathod](https://www.linkedin.com/in/kiran-k-rathod-890926377/)
 
 **Thank you for visiting this repository!** ⭐
